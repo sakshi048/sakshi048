@@ -15,7 +15,10 @@
 <a href="https://leetcode.com/sakshi241/">
   <img src="https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
+<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshi048&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="sakshi048" />
+</p>
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
