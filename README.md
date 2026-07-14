@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sakshi+Gharat;Backend+Engineer+%E2%80%94+Java+%26+Spring+Boot;I+ask+why+a+technique+works%2C+not+just+that+it+does;Solving+DSA+Daily+Since+Jan+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sakshi+Gharat;Backend+Engineer+%E2%80%94+Java+%26+Spring+Boot;I+ask+why+a+technique+works%2C+not+just+that+it+does;Solving+DSA+Daily+Since+Jan+2026" alt="Typing SVG" />
 
 <br/>
 
@@ -26,13 +26,14 @@
   <img src="https://komarev.com/ghpvc/?username=sakshi048&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="sakshi048" />
 </p>
 
-<br/><br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### About Me
 
 Ever seen a backend that works fine in the demo and falls apart in production? I care more about the second one.
+
 I'm a final-year B.E. IT student who builds backend systems in Java and Spring Boot — not just to make them run, but to make them hold up as data and usage grow. That mindset came from working on real projects and realizing most bugs weren't new problems — they were old assumptions nobody had questioned.
 
 <br/>
@@ -53,23 +54,32 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 
 ### Tech Arsenal
 
+**Backend**
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+**Data**
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<br/>
+
+**Frontend**
+
 <img src="https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<br/>
+
+**Fundamentals & Tools**
+
 <img src="https://img.shields.io/badge/Data_Structures-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Algorithms-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
@@ -91,10 +101,6 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshi048&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi048&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi048&theme=radical&hide_border=true" width="70%" />
 
