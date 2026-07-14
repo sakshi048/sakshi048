@@ -26,25 +26,30 @@
   <img src="https://komarev.com/ghpvc/?username=sakshi048&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="sakshi048" />
 </p>
 
-</div>
+<br/><br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### About Me
 
-I'm a final-year B.E. Information Technology student focused on backend engineering — Java, Spring Boot, and system design. I don't stop at making something work; I want to understand why a particular technique or design is the right one before I commit to it. That habit shows up in how I approach both production code and DSA problems: solve a smaller, well-understood version first, then generalize the pattern.
+Ever seen a backend that works fine in the demo and falls apart in production? I care more about the second one.
+I'm a final-year B.E. IT student who builds backend systems in Java and Spring Boot — not just to make them run, but to make them hold up as data and usage grow. That mindset came from working on real projects and realizing most bugs weren't new problems — they were old assumptions nobody had questioned.
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Featured Project
 
 **[Nivaran Setu](https://github.com/sakshi048/nivaran-setu)**
+
 Full-stack platform matching citizens to 3,160+ government welfare schemes through a rule-based eligibility engine.
+
 `React 19` · `Spring Boot` · `MongoDB` · `Redis` · `Kafka` · `OAuth2`
 
----
+<br/>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Tech Arsenal
 
@@ -72,30 +77,42 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-</div>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Activity Overview
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/sakshi048/sakshi048/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sakshi048&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi048&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi048&theme=radical&hide_border=true" width="70%" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ### Problem Solving
 
 Solving DSA daily since January 2026 — building the instinct to reason through a problem's structure rather than pattern-match to a memorized template.
 
-<div align="center">
 <a href="https://leetcode.com/sakshi241/">
 <img src="https://leetcard.jacoblin.cool/sakshi241?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </a>
-</div>
 
----
+<br/>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Let's Talk
 
@@ -104,5 +121,7 @@ Open to SDE-1 and backend internship/full-time roles for 2027. If you're hiring,
 <a href="https://www.linkedin.com/in/sakshigharat/">
   <img src="https://img.shields.io/badge/Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br/><br/>
 
 </div>
