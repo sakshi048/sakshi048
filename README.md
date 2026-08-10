@@ -8,11 +8,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sakshigharat/">
+<a href="https://www.linkedin.com/in/sakshigharat">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/sakshi241/">
+<a href="https://leetcode.com/sakshi241">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;&nbsp;
@@ -21,12 +21,6 @@
 </a>
 
 <br/><br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi048&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="sakshi048" />
-</p>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -40,13 +34,13 @@ I'm a final-year B.E. IT student who builds backend systems in Java and Spring B
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Featured Project
+### Featured Projects
 
 **[Nivaran Setu](https://github.com/sakshi048/nivaran-setu)**
 
-Full-stack platform matching citizens to 3,160+ government welfare schemes through a rule-based eligibility engine.
+Full-stack platform matching citizens to 3,160+ government welfare schemes through a rule-based, specificity-scoring eligibility engine. JWT-based stateless auth, Redis cache-aside layer on the scheme catalog, and Kafka-driven event updates keep the matching pipeline fast and consistent at scale.
 
-`React 19` · `Spring Boot` · `MongoDB` · `Redis` · `Kafka` · `OAuth2`
+`React 19` · `Spring Boot` · `MongoDB` · `Redis` · `Kafka` · `JWT / OAuth2` · `Docker`
 
 <br/>
 
@@ -61,7 +55,8 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge" />
 
 **Data**
 
@@ -69,6 +64,13 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+**DevOps & Tools**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 
 **Frontend**
 
@@ -78,14 +80,12 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Fundamentals & Tools**
+**Fundamentals**
 
 <img src="https://img.shields.io/badge/Data_Structures-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Algorithms-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Design-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/>
 
@@ -100,7 +100,6 @@ Full-stack platform matching citizens to 3,160+ government welfare schemes throu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### GitHub Stats
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi048&theme=radical&hide_border=true" width="70%" />
 
@@ -122,9 +121,9 @@ Solving DSA daily since January 2026 — building the instinct to reason through
 
 ### Let's Talk
 
-Open to SDE-1 and backend internship/full-time roles for 2027. If you're hiring, or just want to talk Java, system design, or DSA — feel free to reach out.
+Open to full-time SDE-1 / backend engineering roles starting 2027. If you're hiring, or just want to talk Java, system design, or DSA — feel free to reach out.
 
-<a href="https://www.linkedin.com/in/sakshigharat/">
+<a href="https://www.linkedin.com/in/sakshigharat">
   <img src="https://img.shields.io/badge/Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
